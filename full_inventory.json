@@ -1,0 +1,6019 @@
+{
+  "back": {
+    "itemID": "item_backpack",
+    "children": [
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      }
+    ]
+  },
+  "leftHand": {
+    "itemID": "item_backpack",
+    "children": [
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      }
+    ]
+  },
+  "rightHand": {
+    "itemID": "item_backpack",
+    "children": [
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      },
+      {
+        "itemID": "item_shredder",
+        "state": 8000
+      }
+    ]
+  },
+  "leftHip": {},
+  "rightHip": {}
+}
