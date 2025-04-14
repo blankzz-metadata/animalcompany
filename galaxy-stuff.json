@@ -1,0 +1,40 @@
+{
+  "itemID": "item_backpack_large_base",
+  "children": [
+    {
+      "itemID": "item_radioactive_broccoli",
+      "colorHue": 172,
+      "colorSaturation": 117
+    },
+    {
+      "itemID": "item_hh_key",
+      "colorHue": 172,
+      "colorSaturation": 117
+    },
+    {
+      "itemID": "item_pumpkin_pie",
+      "colorHue": 172,
+      "colorSaturation": 117
+    },
+    {
+      "itemID": "item_pumpkinjack",
+      "colorHue": 172,
+      "colorSaturation": 117
+    },
+    {
+      "itemID": "item_theremin",
+      "colorHue": 172,
+      "colorSaturation": 117
+    },
+    {
+      "itemID": "item_pelican_case",
+      "colorHue": 172,
+      "colorSaturation": 117
+    },
+    {
+      "itemID": "item_apple",
+      "colorHue": 172,
+      "colorSaturation": 117
+    }
+  ]
+}
