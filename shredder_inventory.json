@@ -1,0 +1,4519 @@
+{
+  "back": {
+    "itemID": "item_backpack",
+    "children": [
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      }
+    ]
+  },
+  "leftHand": {
+    "itemID": "item_backpack",
+    "children": [
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      }
+    ]
+  },
+  "rightHand": {
+    "itemID": "item_backpack",
+    "children": [
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      },
+      {
+        "itemID": "item_revolver_gold"
+      }
+    ]
+  },
+  "leftHip": {},
+  "rightHip": {}
+}
